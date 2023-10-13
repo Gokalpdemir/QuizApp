@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Dünyanın en uzun insanı kaç santimetredir ?",
+    "answers": [
+      { "text": "230", "correct": false },
+      { "text": "235", "correct": false },
+      { "text": "245", "correct": false },
+      { "text": "251", "correct": true }
+    ]
+  },
+  {
+    "question": "Dünyanın en kısa insanı kaç santimetredir",
+    "answers": [
+      { "text": "80", "correct": false },
+      { "text": "67", "correct": false },
+      { "text": "65", "correct": true },
+      { "text": "49", "correct": false }
+    ]
+  },
+  {
+    "question": "Dünyanın en hızlı arabasını üreten marka hangisidir?",
+    "answers": [
+      { "text": "Bugatti", "correct": true },
+      { "text": "Ferrari", "correct": false },
+      { "text": "Audi", "correct": false },
+      { "text": "Bmw", "correct": false }
+    ]
+  },
+  {
+    "question": "Dünyanın en zeki hayvanı nedir ?",
+    "answers": [
+      { "text": "Mavi balina", "correct": false },
+      { "text": "Zürafa", "correct": false },
+      { "text": "yunus Balığı", "correct": true },
+      { "text": "Aslan", "correct": false }
+    ]
+  },
+  {
+    "question": "Hangi sosyal medya platformu daha sonra kurulmuştur?",
+    "answers": [
+      { "text": "Twitter", "correct": false },
+      { "text": "Tinder", "correct": true },
+      { "text": "Snapchat", "correct": false },
+      { "text": "Youtube", "correct": false }
+    ]
+  }
+
+]
